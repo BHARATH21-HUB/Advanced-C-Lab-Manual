@@ -15,7 +15,7 @@ Else
 6.	Return 0
  
 Program:
-
+```
 #include <stdio.h>
 
 struct eligible {
@@ -53,7 +53,7 @@ int main() {
 
     return 0;
 }
-
+```
 Output:
 
 <img width="472" height="573" alt="image" src="https://github.com/user-attachments/assets/511bea8c-dfc4-48c6-b444-5df345185537" />
